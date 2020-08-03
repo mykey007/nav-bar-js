@@ -271,6 +271,7 @@ nav {
     cursor: pointer;
   }
   .nav-toggle:hover {
+    cursor: pointer;
     color: var(--clr-primary-1);
     animation: push-on-hover 1s;
   }
