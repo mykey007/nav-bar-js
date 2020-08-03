@@ -244,3 +244,17 @@ h1 {
 .slide .switch {
     left: 50%;
 }
+
+
+.nav-toggle i,
+ul.icons li i {
+    color: #756af8;
+    width: 30px;
+    height: 30px;
+    font-size: 30px;
+    text-align: center;
+    display: block;
+    float: left;
+    line-height: 34px;
+    margin-left: 5px;
+}
