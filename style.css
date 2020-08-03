@@ -273,7 +273,7 @@ nav {
   .nav-toggle:hover {
     cursor: pointer;
     color: var(--clr-primary-1);
-    animation: push-on-hover 1s;
+    animation: push-on-hover 0.5s;
   }
   .logo {
     height: 40px;
@@ -346,7 +346,8 @@ nav {
 
 .nav-toggle i,
 ul.icons li i {
-    color: #756af8;
+    /* color: #756af8; */
+    color: var(--clr-primary-5);
     width: 30px;
     height: 30px;
     font-size: 30px;
